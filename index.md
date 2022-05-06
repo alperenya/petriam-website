@@ -12,9 +12,13 @@ money by taking care of the pets of their clients.
 ### Project Members
 
 Ertuğrul Aktaş
+
 Oğuzhan Angın
+
 Osman Buğra Aydın
+
 Mehmet Alperen Yalçın
+
 Muhammed Doğancan Yılmazoğlu
 
 
