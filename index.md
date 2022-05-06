@@ -1,8 +1,11 @@
 ## Petriam
 
-You can use the [editor on GitHub](https://github.com/alperenya/petriam-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Petriam is a mobile application to serve the people with pets while they
+are unable to take care of their pets during their time outside their homes. The
+project aims to favor both sides of its target group which are hosts and clients.
+Using Petriam, clients who are pet owners could list the possible temporary
+homes for their pets while hosts who may or may not be pet owners can earn
+money by taking care of the pets of their clients.
 
 ### Markdown
 
