@@ -1,5 +1,3 @@
-![logo](https://github.com/alperenya/petriam-website/blob/gh-pages/logo.png)
-
 ## Petriam
 
 Petriam is a mobile application to serve the people with pets while they
