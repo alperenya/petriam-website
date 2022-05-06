@@ -32,4 +32,4 @@ Prof. Özcan Öztürk
 
 [Low Level Design Report](https://github.com/dgndds/petriam/blob/main/reports/Petriam%20Low-Level%20Design%20Report.pdf)
 
-Final Report
+[Final Report](https://github.com/dgndds/petriam/blob/main/reports/Petriam_Final_Report.pdf)
