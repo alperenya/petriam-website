@@ -1,3 +1,5 @@
+![](https://github.com/alperenya/petriam-website/blob/gh-pages/logo.png)
+
 ## Petriam
 
 Petriam is a mobile application to serve the people with pets while they
@@ -7,12 +9,37 @@ Using Petriam, clients who are pet owners could list the possible temporary
 homes for their pets while hosts who may or may not be pet owners can earn
 money by taking care of the pets of their clients.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Members
 
 ```markdown
-Syntax highlighted code block
+
+Ertuğrul Aktaş
+Oğuzhan Angın
+Osman Buğra Aydın
+Mehmet Alperen Yalçın
+Muhammed Doğancan Yılmazoğlu
+
+```
+
+### Supervisor
+
+```markdown
+
+Prof. Özcan Öztürk
+
+```
+
+### Reports
+
+```markdown
+
+[Project Specification Report](https://github.com/dgndds/petriam/blob/main/reports/Project%20Specification%20Report.pdf)
+[Analysis Report](https://github.com/dgndds/petriam/blob/main/reports/Petriam_Analysis_report.pdf)
+[High Level Design Report](https://github.com/dgndds/petriam/blob/main/reports/Petriam%20High%20Level%20Design%20Report.pdf)
+[Low Level Design Report](https://github.com/dgndds/petriam/blob/main/reports/Petriam%20Low-Level%20Design%20Report.pdf)
+Final Report
+
+```
 
 # Header 1
 ## Header 2
